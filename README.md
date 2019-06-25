@@ -8,7 +8,10 @@ This also serves as the landing page for all my github material
 
 
 - [HBase](/HBase)
-
 - [Python](/Python)
-
 - [Scala](/Scala)
+- [Nifi](/Nifi)
+- [OpenProject](/OpenProject)
+- [Image-Analytics](/Image-Analytics)
+- [Machine-Learning](/Machine-Learning)
+
