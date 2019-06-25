@@ -1,21 +1,19 @@
 - [Data Science Related](#data-science-related)
-    + [Python](#-python---python-)
-    + [Image-Analytics](/Image-Analytics)](#-image-analytics---image-analytics-)
-    + [Machine-Learning](/Machine-Learning)](#-machine-learning---machine-learning-)
+    + [Python](#python)
+    + [Image-Analytics](#image-analytics)
+    + [Machine-Learning](#machine-learning)
 - [Big Data Related](#big-data-related)
     + [Scala](#scala)
     + [Spark](#spark)
-    + [HBase](#-hbase---hbase-)
-    + [Nifi](#-nifi---nifi-)
-    + [Hadoop-Cluster](/Hadoop-Cluster)](#-hadoop-cluster---hadoop-cluster-)
+    + [HBase](#hbase)
+    + [Nifi](#nifi)
+    + [Hadoop-Cluster](#hadoop-cluster)
 - [Project Management](#project-management)
-    + [OpenProject](/OpenProject)](#-openproject---openproject-)
+    + [OpenProject](#openproject)
 
 
 
-This also serves as the landing page for all my github material
-
-This repo is to store all collected information for those topics for future usage
+>This also serves as the landing page for all my github material. This repo is to store all collected information for those topics for future usage
 
 ## Data Science Related
 
