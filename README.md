@@ -11,8 +11,6 @@
 - [Project Management](#project-management)
     + [OpenProject](#openproject)
 
-
-
 >This also serves as the landing page for all my github material. This repo is to store all collected information for those topics for future usage
 
 ## Data Science Related
@@ -49,3 +47,6 @@
 ## Project Management
 #### [OpenProject](/OpenProject)
   - How to host a Open Project for project management
+
+
+> [TOC Generator](https://ecotrust-canada.github.io/markdown-toc/)
