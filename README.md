@@ -1,6 +1,17 @@
+- [Data Science Related](#data-science-related)
+    + [[Python](/Python)](#-python---python-)
+    + [[Image-Analytics](/Image-Analytics)](#-image-analytics---image-analytics-)
+    + [[Machine-Learning](/Machine-Learning)](#-machine-learning---machine-learning-)
+- [Big Data Related](#big-data-related)
+    + [[Scala](/Scala)](#-scala---scala-)
+    + [[Spark](/Spark)](#-spark---spark-)
+    + [[HBase](/HBase)](#-hbase---hbase-)
+    + [[Nifi](/Nifi)](#-nifi---nifi-)
+    + [[Hadoop-Cluster](/Hadoop-Cluster)](#-hadoop-cluster---hadoop-cluster-)
+- [Project Management](#project-management)
+    + [[OpenProject](/OpenProject)](#-openproject---openproject-)
 
 
-[TOC]
 
 This also serves as the landing page for all my github material
 
@@ -28,45 +39,13 @@ This repo is to store all collected information for those topics for future usag
   - Spark-Hive integration
   - spark-shell vs spark-submit
 
-<<<<<<< HEAD
 #### [HBase](/HBase)
-=======
-- [Spark](/Spark)
-  - Sample Spark application
-  - Spark-HBase integration
-  - Spark-Hive integration
-  - spark-shell vs spark-submit
->>>>>>> master
 
   - HBase shell command
   - HBase filter
 #### [Nifi](/Nifi)
 
-<<<<<<< HEAD
 #### [Hadoop-Cluster](/Hadoop-Cluster)
-=======
-- [HBase](/HBase)
-
-  - HBase shell command
-  - HBase filter
-- [Python](/Python)
-
-  - How to create a python project by Pycharm
-- [Scala](/Scala)
-
-  - Scala Syntax and Tutorials
-  - How to create a scala project using Maven
-
-    - example POM file
-- [Nifi](/Nifi)
-- [OpenProject](/OpenProject)
-
-  - How to setup a Open 
-- [Image-Analytics](/Image-Analytics)
-- [Machine-Learning](/Machine-Learning)
-- [Hadoop-Cluster](/Hadoop-Cluster)
-
->>>>>>> master
   - Start to build your own cluster
 
 ## Project Management
