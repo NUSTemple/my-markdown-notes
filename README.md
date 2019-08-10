@@ -21,6 +21,9 @@
 #### [Image-Analytics](/Image-Analytics)
 
 #### [Machine-Learning](/Machine-Learning)
+  - random forest
+  - svm
+  - xgboost
 
 ## Big Data Related
 
@@ -40,6 +43,7 @@
   - HBase shell command
   - HBase filter
 #### [Nifi](/Nifi)
+  - How use Nifi to transfer data
 
 #### [Hadoop-Cluster](/Hadoop-Cluster)
   - Start to build your own cluster
